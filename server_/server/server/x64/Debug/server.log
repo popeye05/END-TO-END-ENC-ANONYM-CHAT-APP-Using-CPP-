@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Projects\C & C++\Projects\End-to-End Chat\server_\server\main.cpp(28,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  server.vcxproj -> D:\Projects\C & C++\Projects\End-to-End Chat\server_\x64\Debug\server.exe
